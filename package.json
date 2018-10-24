@@ -1,0 +1,17 @@
+{
+  "name": "route_guide",
+  "version": "1.0.0",
+  "description": "Route Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhay",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "grpc": "^1.15.1",
+    "minimist": "^1.2.0",
+    "mysql": "^2.16.0"
+  }
+}
